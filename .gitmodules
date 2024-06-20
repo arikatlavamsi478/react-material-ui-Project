@@ -1,0 +1,3 @@
+[submodule "react-material-ui-examples"]
+	path = react-material-ui-examples
+	url = https://github.com/bezkoder/react-material-ui-examples.git
